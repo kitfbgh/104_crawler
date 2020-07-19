@@ -1,0 +1,240 @@
+這是第1個工作
+公司名稱:公司名稱:茂傑國際股份有限公司
+職缺名稱:軟體工程師
+工作內容:(1)嵌入式系統相關經驗。 (2)HTML 前後端開發經驗。
+工作地點與學經歷:
+新北市土城區
+3年以上
+專科
+薪水:待遇面議
+
+這是第2個工作
+公司名稱:公司名稱:利頡資訊科技有限公司
+職缺名稱:資深前端工程師 **月薪80,000~100,000**
+工作內容:1. 與設計團隊共同合作開發大型網站平台 2. 創造給客戶更好的UI/UX體驗 3. 設計，開發網頁介面 4. 採用Scrum開發流程 5. 帶領開發團隊，從事軟體的功能設計、開發和維護，並確保開發品質與進度
+工作地點與學經歷:
+台北市中正區
+2年以上
+學歷不拘
+薪水:月薪80,000~100,000元
+
+這是第3個工作
+公司名稱:公司名稱:利頡資訊科技有限公司
+職缺名稱:UI設計師**月薪40,000~65,000**
+工作內容:1.Ｗeb、App的UI／UX視覺設計與調整。  2.平面設計(製作Banner與廣告宣傳圖片)。  3.與軟體工程師協同開發合作
+工作地點與學經歷:
+台北市大安區
+2年以上
+學歷不拘
+薪水:月薪40,000~65,000元
+
+這是第4個工作
+公司名稱:公司名稱:利頡資訊科技有限公司
+職缺名稱:資深後端工程師 **月薪80,000~100,000**
+工作內容:1. 與設計團隊共同合作開發大型網站平台 2. 創造給客戶更好的UI/UX體驗 3. 設計，開發網頁介面 4. 採用Scrum開發流程 5. 帶領開發團隊，從事軟體的功能設計、開發和維護，並確保開發品質與進度
+工作地點與學經歷:
+台北市中正區
+2年以上
+學歷不拘
+薪水:月薪80,000~100,000元
+
+這是第5個工作
+公司名稱:公司名稱:台灣理光股份有限公司
+職缺名稱:企業文件解決方案顧問 (Solution Consultant)
+工作內容:•企業解決方案售前支援 (用戶需求訪談、客戶文件作業流程梳理、產品與方案評估、專案範圍確認、客戶提案/簡報、資訊架構規劃、概念性驗證) •提供網路傳真、企業文件安全、文件掃描、文件管理..等相關企業解決方案之諮詢 •特定實施與交付(Delivery)之專案管理 •企業解決方案售前支援與售前進度管理 •協助與管理達成解決方案業務目標
+工作地點與學經歷:
+台北市南港區
+3年以上
+大學
+薪水:待遇面議
+
+這是第6個工作
+公司名稱:公司名稱:格睿科技有限公司
+職缺名稱:UI 美術/設計師
+工作內容:1. 負責Web/App UI介面視覺設計 2. 精通Photoshop, Illustrator繪圖軟體 3. 擁有美術設計1年以上相關工作經驗佳 4. 具備其他繪圖軟體並能交互使用完成任務佳 5. 具備創新設計能力，熟諳app互動響應設計 6. 能使用DIV切版、HTML5、CSS3運用之能力更佳，具備主流繪圖軟體和網頁技術，熟RWD網頁製作技術加分。
+工作地點與學經歷:
+台北市中山區
+經歷不拘
+高中
+薪水:月薪38,000~60,000元
+
+這是第7個工作
+公司名稱:公司名稱:精藤股份有限公司
+職缺名稱:系統分析師
+工作內容:精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。 而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20多年來不斷精進的程式開發技術以及重視團隊合作的組織文化。 在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。 除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。 本公司系統分析師之職務內容如下： 1.客戶需求分析 2.系統架構規劃與操作流程設計 3.系統日常維護 4.客戶問題排除 此職缺需熟悉C#、.NET，並具備資料庫運作基本概念，若您對於相關技術不夠熟悉，本公司亦具備有完善的教育訓練制度可以協助大家提升自我能力，並共同為全家集團盡一份心力。
+工作地點與學經歷:
+台北市中山區
+2年以上
+大學
+薪水:待遇面議
+
+這是第8個工作
+公司名稱:公司名稱:士林電機廠股份有限公司
+職缺名稱:【EG】太陽能專案機電工程師
+工作內容:專長：機電工程(高壓)或土木工程經驗 工作內容： 1、負責工程監造工作 2、具備材料審查、施工查驗、監造文件完成、工程協調與問題處理 3、具公共工程品質管理或其他工程類證照 4、熟悉AUTO CAD軟體操作 5、其他工程事務
+工作地點與學經歷:
+雲林縣口湖鄉
+經歷不拘
+專科
+薪水:月薪30,000~55,000元
+
+這是第9個工作
+公司名稱:公司名稱:瑞嘉軟體科技股份有限公司
+職缺名稱:Full Stack/Frontend Engineer / 全端/前端工程師
+工作內容:• Designing, coding, and debugging web applications and services. • Coordinate with technical lead on current programming tasks. • Perform requirement analysis, code analysis, system risk analysis, and technical root cause analysis. • Support, maintain, and document software functionality. • Continuously learn and improve skills. • Perform other duties as necessary.
+工作地點與學經歷:
+台北市內湖區
+1年以上
+大學
+薪水:月薪55,000~142,000元
+
+這是第10個工作
+公司名稱:公司名稱:皇田工業股份有限公司
+職缺名稱:C003 設計工程師
+工作內容:1.根據產品規格要求制定產品規格與成品零件圖 2.確認新零件圖面要求之規範及相關零件接口尺寸的配合與分析 3.執行新產品設計審查，包括Pototpype/OTS/PPAP設計審查 4.負責OTS樣品審查全尺寸與改善措施 5.設計與產品開發履歷的建立與維護 6.制定DV/PV實驗計畫並展開到圖紙規範 7.執行項目計畫研發之各項工作，確保產品可於要求時間內順利量產
+工作地點與學經歷:
+台南市永康區
+3年以上
+大學
+薪水:月薪33,000~60,000元
+
+這是第11個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】Android 工程師
+工作內容:【２年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝! 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導
+工作地點與學經歷:
+新北市汐止區
+2年以上
+專科
+薪水:待遇面議
+
+這是第12個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】應用軟體測試工程師
+工作內容:【１年以上應用軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝！ 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。 因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要軟體開發專案有： (1)銀行/保險/證
+工作地點與學經歷:
+新北市汐止區
+1年以上
+專科
+薪水:待遇面議
+
+這是第13個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】.NET SD / PG
+工作內容:【２年以上軟體相關經驗者，歡迎投遞！】 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有： (1)銀行/保險/證券業系統開發 (2) 半導體/面板/電子產業相關系統
+工作地點與學經歷:
+新北市汐止區
+2年以上
+專科
+薪水:待遇面議
+
+這是第14個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】Java SD / PG
+工作內容:【２年以上軟體相關經驗者，歡迎投遞！】 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有： (1)銀行/保險/證券業系統開發 (2) 半導體/面板/電子產業相關系統
+工作地點與學經歷:
+新北市汐止區
+2年以上
+專科
+薪水:待遇面議
+
+這是第15個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】Python 工程師
+工作內容:【１年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝! 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導體
+工作地點與學經歷:
+新北市汐止區
+1年以上
+大學
+薪水:待遇面議
+
+這是第16個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】iOS 工程師
+工作內容:【２年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝! 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導
+工作地點與學經歷:
+新北市汐止區
+2年以上
+專科
+薪水:待遇面議
+
+這是第17個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】系統分析師SA
+工作內容:【３年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝! 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導
+工作地點與學經歷:
+新北市汐止區
+3年以上
+大學
+薪水:待遇面議
+
+這是第18個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】大數據工程師
+工作內容:【２年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝! 緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。 ● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導體
+工作地點與學經歷:
+新北市汐止區
+2年以上
+專科
+薪水:待遇面議
+
+這是第19個工作
+公司名稱:公司名稱:瑞嘉軟體科技股份有限公司
+職缺名稱:【PHP】Senior PHP Software Engineer / PHP 資深軟體工程師_(Lic BU)
+工作內容:• Designing, coding, and debugging web applications and services. • Coordinate with technical lead on current programming tasks. • Perform requirement analysis, code analysis, system risk analysis, and technical root cause analysis. • Support, maintain, and document software functionality. • Continuously learn and improve skills. • Perform other duties as necessary.
+工作地點與學經歷:
+台北市內湖區
+1年以上
+大學
+薪水:月薪55,000~142,000元
+
+這是第20個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:L-軟體中文化-港中翻譯人員
+工作內容:1. 技術文件翻譯 (產品說明書、安裝手冊) 2. 軟體相關文件翻譯 3. 專案管理 4. 其他交辦事務
+工作地點與學經歷:
+新北市汐止區
+1年以上
+專科
+薪水:月薪30,000~45,000元
+
+這是第21個工作
+公司名稱:公司名稱:緯創軟體股份有限公司
+職缺名稱:【 2020軟體技術人才招募】E-OA Helpdesk值機工程師
+工作內容:)。 3. 協助解決網路不通等問題。 4. 協助作業系統安裝及升級(Windows)，軟體授權及安裝SOP由客戶提供。 5. 協助OA軟體安裝及升級(OFFICE/MAIL等)，軟體授權及安裝SOP由客戶提供。
+工作地點與學經歷:
+台北市內湖區
+經歷不拘
+專科
+薪水:月薪25,000~30,000元
+
+這是第22個工作
+公司名稱:公司名稱:瑞嘉軟體科技股份有限公司
+職缺名稱:【PM】Software Project Manager / 軟體專案經理
+工作內容:We are looking for experienced, highly motivated & results orientated Project Manager to join our team. The ideal candidate is a professional who understands what it takes to coordinate a multi-faceted, complex project and who has the drive to make things happen. The right person is not only a project manager, but has the soft skills to help busy stakeholders willingly meet all their deadlines. You will work in a cross-functional team, and in this role, you are the glue that holds things together and will be on point to ensure success. Major duties & responsibilities: • Develop detailed project plan & project status updates to monitor and track progress, and to maintain with agile oriented tools. • Proactive, closely collaboration and communication with all stakeholders & project team members at all times throughout project life cycle. • Ensure overall solution or service fulfills user requirements and expectation. • Review & Track project deliverables produced by stakeholders, business analysts, technical service owners & QAs. • Change Management execution according to the internal Change Management model. • Understand and provide feedback on Root Cause Analysis report. • Worked with the team to present incident reports defining issues and solutions. • Perform risk management to minimize the project risks. • Resolve any issues and help look for resources to solve problems throughout the project life cycle. • Escalate major issues or showstoppers to senior management throughout project life cycle. 【Required】 • Past coding experience in Software Development of Web Applications in any language, with strong knowledge of Software Development Life Cycle, Software Quality Assurance and methodologies. • Must demonstrate excellent verbal and written skills to communicate effectively with cross functional teams including business, IT, application development and DBA teams. • Strong problem solving and troubleshooting skills with the ability to exercise mature judgment. • Track record demonstrating strong leadership skills, with multi-national and distributed development environments. • Must demonstrate track record in taking an IT project from concept to completion. • Good Project Management, Tracking, Control and Visibility (communication) for Stakeholders and project teams to give a forecast view of exisitng or incoming projects. • Effectively manage project scope by ensuring any changes to scope are documented and approved with project change request forms. • Ability to work under pressure, think analytically, define and roll out client and project specifics, develop plans and schedules. • Project Management execution according to the internal working model/methodologies/policies. • Track, manage, and be accountable for all aspects of successful project execution.
+工作地點與學經歷:
+台北市內湖區
+1年以上
+大學
+薪水:月薪40,000~110,000元
+
+這是第23個工作
+公司名稱:公司名稱:Nexio Technology Limited_睿世軟體科技股份有限公司
+職缺名稱:Senior Software QA Engineer | 資深軟體測試工程師
+工作內容:工作內容 Job Responsibilities • 參與團隊開發流程，依照需求設計與建立維護測試計劃 (Test Plan) 與測試案例 (Test Case) • 依據測試案例於不同軟體平台進行產品功能、系統整合、相容性和效能驗證
+工作地點與學經歷:
+台北市內湖區
+1年以上
+大學
+薪水:待遇面議
+
+這是第24個工作
+公司名稱:公司名稱:瑞嘉軟體科技股份有限公司
+職缺名稱:【BA】IT Business Analyst / 軟體商業分析師
+工作內容:Job Purpose: Looking for Detailed-Oriented Software Business Analyst who is responsible for the overall design of the application and mapping business requirements to systems requirements. The Software Business Analyst works as a team member along with the project team members to deliver the complete integrated solution in our system platform. 【Key Accountability Areas】 • Work with internal teams to obtain in-depth understanding of the integrated product and produce requirement documents. • Based on business needs to design process/function flow to ensure the system is well implemented. • Document and analyze business requirements, create design and functional requirement documents, conduct thorough system testing and demonstrate new functionality to business users. • Must demonstrate excellent verbal and written skills to communicate effectively with cross functional teams including business, application development and operation teams. • Work together with the team to ensure system issues are addressed and resolved in a timely manner.
+工作地點與學經歷:
+台北市內湖區
+1年以上
+大學
+薪水:月薪40,000~110,000元
+
